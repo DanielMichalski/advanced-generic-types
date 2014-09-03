@@ -1,7 +1,8 @@
 advanced-generic-types
 ======================
 
-The project shows how to use advanced generic types.
+The project shows how to use advanced generic types. 
+It's written in Java 8 version.
 
 It contains:
 - Generic types
