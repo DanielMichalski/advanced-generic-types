@@ -6,14 +6,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>pl.dmichalski</groupId>
-    <artifactId>pl.dmichalski.generics</artifactId>
+    <artifactId>generics</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0</version>
 
     <modules>
         <module>R01_Wildcards</module>
         <module>R02_Generic_Methods</module>
-        <module>R03_Generic_Parameter_Types</module>
+        <module>R03_Generic_Type_Parameters</module>
+        <module>R04_Generic_Type_Parameters_And_Inheritance</module>
     </modules>
 
     <build>

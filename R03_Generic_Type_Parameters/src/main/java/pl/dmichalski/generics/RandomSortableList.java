@@ -1,4 +1,4 @@
-package generics;
+package pl.dmichalski.generics;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -8,8 +8,9 @@
         <artifactId>generics</artifactId>
         <version>1.0.0</version>
     </parent>
+
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>R02_Generic_Methods</artifactId>
+    <artifactId>R04_Generic_Type_Parameters_And_Inheritance</artifactId>
 
 </project>
