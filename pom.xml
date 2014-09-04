@@ -15,6 +15,8 @@
         <module>R02_Generic_Methods</module>
         <module>R03_Generic_Type_Parameters</module>
         <module>R04_Generic_Type_Parameters_And_Inheritance</module>
+        <module>R05_Arguments_of_generic_types</module>
+        <module>R06_Mixing_generic_and_plain_types</module>
     </modules>
 
     <build>
