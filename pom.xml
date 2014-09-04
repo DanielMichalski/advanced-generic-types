@@ -17,6 +17,7 @@
         <module>R04_Generic_Type_Parameters_And_Inheritance</module>
         <module>R05_Arguments_of_generic_types</module>
         <module>R06_Mixing_generic_and_plain_types</module>
+        <module>R07_Generic_Interfaces</module>
     </modules>
 
     <build>
