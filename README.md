@@ -13,3 +13,4 @@ It contains:
 - Implementing method equals and clone
 - Reflection and generics
 - Generics and exception handling
+- Genric collections
