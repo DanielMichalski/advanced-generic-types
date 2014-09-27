@@ -21,6 +21,7 @@
         <module>R07_Equals_and_clone_methods</module>
         <module>R08_Erasing_types_info</module>
         <module>R09_Littering_the_heap_and_generic_exceptions</module>
+        <module>R10_Reflection_in_generics_1</module>
     </modules>
 
     <build>
