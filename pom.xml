@@ -23,6 +23,7 @@
         <module>R09_Littering_the_heap_and_generic_exceptions</module>
         <module>R10_Reflection_in_generics_1</module>
         <module>R11_Reflection_in_generics_2</module>
+        <module>R12_Reflection_in_generics_3</module>
     </modules>
 
     <build>
