@@ -1,4 +1,4 @@
-package pl.dmichalski.generic.animals;
+package pl.dmichalski.generics.animals;
 
 /**
  * Author: Daniel

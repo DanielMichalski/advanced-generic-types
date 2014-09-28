@@ -1,4 +1,4 @@
-package pl.dmichalski.generic;
+package pl.dmichalski.generics;
 
 import java.util.ArrayList;
 

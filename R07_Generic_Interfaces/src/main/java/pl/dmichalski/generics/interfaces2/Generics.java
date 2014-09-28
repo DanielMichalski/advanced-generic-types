@@ -1,4 +1,4 @@
-package pl.dmichalski.generic.interfaces2;
+package pl.dmichalski.generics.interfaces2;
 
 /**
  * Author: Daniel

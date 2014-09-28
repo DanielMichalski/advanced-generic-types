@@ -1,4 +1,4 @@
-package pl.dmichalski.generic.exception;
+package pl.dmichalski.generics.exception;
 
 /**
  * Author: Daniel
